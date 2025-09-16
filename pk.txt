@@ -1,0 +1,11 @@
+<html>
+<head>n
+<tittle>names</tittle>
+</head>
+<body>
+<h1>priya</h1>
+<h2>krupa</h2>
+<p>krupa is my frd</p>
+<p>priya is my frd</p>
+</body>
+</html>
